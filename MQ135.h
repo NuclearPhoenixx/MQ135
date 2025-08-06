@@ -42,7 +42,7 @@ v1.0 - First release
 /// Atmospheric CO2 level for calibration purposes,
 /// from "Globally averaged marine surface monthly mean data"
 /// available at https://gml.noaa.gov/ccgg/trends/gl_data.html
-#define ATMOCO2 415.58 // Global CO2 Aug 2022
+#define ATMOCO2 426.89 // Global CO2 May 2025
 
 class MQ135 {
  private:
